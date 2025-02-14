@@ -1,6 +1,8 @@
 import { useState } from 'react';
 import LogoButton from '../components/LogoButton';
 import '../styles/Logo.css';
+import video1 from '../assets/video1.mp4';
+import video2 from '../assets/video2.mp4';
 
 export default function Logo() {
   const [toggle, setToggle] = useState(true);
@@ -12,7 +14,7 @@ export default function Logo() {
   if (toggle) return (
     <div className="logo">
       <video
-        src="/assets/video1.mp4"
+        src={video1}
         loop
         autoPlay
         muted
@@ -37,7 +39,7 @@ export default function Logo() {
     return (
       <div className="logo">
         <video
-          src="/assets/video2.mp4"
+          src={video2}
           loop
           autoPlay
           muted

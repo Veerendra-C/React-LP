@@ -1,11 +1,12 @@
 import React from 'react'
 import '../styles/hypersupercars.css'
+import video4 from '../assets/video4.mp4'
 
 export default function Hypersportscars() {
   return (
     <div className="hypersupercars">
       <video
-        src="/assets/video4.mp4"
+        src={video4}
         loop
         autoPlay
         muted

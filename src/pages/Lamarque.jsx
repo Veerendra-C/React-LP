@@ -1,11 +1,12 @@
 import React from 'react'
 import '../styles/lamarque.css'
+import video3 from '../assets/video3.mp4'
 
 export default function Lamarque() {
   return (
     <div className="lamarque">
       <video
-        src="/assets/video3.mp4"
+        src={video3}
         loop
         autoPlay
         muted
