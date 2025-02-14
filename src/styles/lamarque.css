@@ -1,0 +1,109 @@
+.lamarque{
+    height: 100%;
+    width: 100%;
+}
+
+.block1{
+    height: 30%;
+    width: 20%;
+    position: relative;
+    top: 20px;
+    left: 50px;
+    /* background-color: bisque; */
+}
+
+.block1 h2{
+    color: whitesmoke;
+    font-size: clamp(1.5rem, 2vw, 200rem);
+}
+
+.block1 p{
+    color: whitesmoke;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: clamp(1rem, 1vw, 200rem);  
+    text-align: justify;
+}
+
+.block2{
+    height: 30%;
+    width: 20%;
+    position: relative;
+    top: -270px;
+    left: 700px;
+    /* background-color: bisque; */
+}
+
+.block2 h2{
+    color: whitesmoke;
+    font-size: clamp(1.5rem, 2vw, 200rem);
+}
+
+.block2 p{
+    color: whitesmoke;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: clamp(1rem, 1vw, 200rem);  
+    text-align: justify;
+}
+
+.block3{
+    height: 30%;
+    width: 20%;
+    position: relative;
+    top: -59%;
+    left: 75%;
+    /* background-color: bisque; */
+}
+
+.block3 h2{
+    color: whitesmoke;
+    font-size: clamp(1.5rem, 2vw, 200rem);
+}
+
+.block3 p{
+    color: whitesmoke;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: clamp(1rem, 1vw, 200rem);  
+    text-align: justify;
+}
+
+.block4{
+    height: 30%;
+    width: 20%;
+    position: relative;
+    top: -20%;
+    left: 3%;
+    /* background-color: bisque; */
+}
+
+.block4 h2{
+    color: whitesmoke;
+    font-size: clamp(1.5rem, 2vw, 200rem);
+}
+
+.block4 p{
+    color: whitesmoke;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: clamp(1rem, 1vw, 200rem);  
+    text-align: justify;
+}
+
+.block5{
+    height: 30%;
+    width: 20%;
+    position: relative;
+    top: -50%;
+    left: 75%;
+    /* background-color: bisque; */
+}
+
+.block5 h2{
+    color: whitesmoke;
+    font-size: clamp(1.5rem, 2vw, 200rem);
+}
+
+.block5 p{
+    color: whitesmoke;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: clamp(1rem, 1vw, 200rem);  
+    text-align: justify;
+}

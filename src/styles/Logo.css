@@ -1,0 +1,21 @@
+.logo{
+    height: 91%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.logo div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.logo div h1{
+    font-size: clamp(10px, 7vw, 20000px);
+    color: white;
+}
