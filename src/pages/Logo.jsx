@@ -12,7 +12,7 @@ export default function Logo() {
   if (toggle) return (
     <div className="logo">
       <video
-        src="/video1.mp4"
+        src="/assets/video1.mp4"
         loop
         autoPlay
         muted
@@ -37,7 +37,7 @@ export default function Logo() {
     return (
       <div className="logo">
         <video
-          src="/video2.mp4"
+          src="/assets/video2.mp4"
           loop
           autoPlay
           muted

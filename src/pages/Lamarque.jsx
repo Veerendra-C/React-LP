@@ -5,7 +5,7 @@ export default function Lamarque() {
   return (
     <div className="lamarque">
       <video
-        src="/video3.mp4"
+        src="/assets/video3.mp4"
         loop
         autoPlay
         muted
